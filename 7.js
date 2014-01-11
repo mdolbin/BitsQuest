@@ -25,6 +25,7 @@
  *      Those red jumpy things will kill your robot. Don't touch them.
  */
 
+//TODO Review this code later.
 
 
 var route = new Object();
